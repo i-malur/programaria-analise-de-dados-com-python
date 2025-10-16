@@ -83,6 +83,6 @@ conda install jupyterlab numpy pandas matplotlib seaborn scikit-learn plotly ope
 
 ## 👩‍💻 Autora
 
-**Maria Luiza Fernandes**
-🌐 [GitHub - i-malur](https://github.com/i-malur)
+**Maria Luiza Fernandes** 
+[GitHub - i-malur](https://github.com/i-malur)
 
