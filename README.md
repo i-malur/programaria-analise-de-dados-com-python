@@ -3,7 +3,7 @@
 > Repositório com notebooks e exercícios do curso meus primeiros passos em python, da Programaria!
 
 ## Sobre
-Durante o curso de Introdução à Análise de Dados, aprendi de forma prática todo o processo de trabalhar com dados — desde a coleta e organização até a análise e visualização dos resultados.
+Durante o curso de Introdução à Análise de Dados, aprendi de forma prática todo o processo de trabalhar com dados, desde a coleta e organização até a análise e visualização dos resultados.
 
 Comecei entendendo os fundamentos da análise de dados, aprendendo a manipular informações em planilhas, utilizando filtros, tabelas dinâmicas, gráficos e condicionais para extrair insights. Em seguida, aprofundei meus conhecimentos com Python e Jupyter Notebook, explorando bibliotecas como Pandas, Numpy e Scipy para tratar dados, identificar valores faltantes e discrepantes e aplicar conceitos de estatística básica.
 
